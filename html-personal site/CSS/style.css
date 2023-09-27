@@ -1,0 +1,15 @@
+hr{
+    border-style: dotted;
+    border-width: 5px;
+    width: 5%;
+    color: white;
+}
+body{
+    color: rosybrown;
+}
+h1,h2,h3{
+    color: #66bfbf;
+}
+body{
+    background-color: blue;
+}
